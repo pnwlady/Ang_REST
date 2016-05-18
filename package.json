@@ -1,0 +1,22 @@
+{
+  "name": "ang_rest",
+  "version": "1.0.0",
+  "description": "angular rest app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnwlady/Ang_REST.git"
+  },
+  "author": "heidi laursen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pnwlady/Ang_REST/issues"
+  },
+  "homepage": "https://github.com/pnwlady/Ang_REST#readme",
+  "devDependencies": {
+    "angular": "^1.5.5"
+  }
+}
